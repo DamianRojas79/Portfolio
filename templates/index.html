@@ -3,13 +3,19 @@
 {% block title %} Bienvenidos {% endblock %}
 
 {% block content%}
-   <!-- Incluir menu de navegación  -->
-   {% include 'nav.html' %}
 
-   <!-- Incluir Bienvenida  -->
-   {% include 'home.html' %}
+<!-- Incluir menu de navegación  -->
+{% include 'nav.html' %}
 
-      <!-- Incluir sección de proyectos  -->
-      {% include 'portfolio.html' %}
+<!-- Incluir Bienvenida  -->
+{% include 'home.html' %}
+
+<!-- Incluir sección de proyectos  -->
+{% include 'portfolio.html' %}
+
+
+<!-- Incluir sección de contacto  -->
+{% include 'contact.html' %}
+
 
 {% endblock %}
