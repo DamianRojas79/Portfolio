@@ -1,5 +1,5 @@
 ## Descripcion
-Esto es un potfolio creado con HTML, CSS, javascript y bootstrap. Este proyecto esta creado con Python y framework Flask creado en un entorno virtual. Para la gestión de los mail se utiliza Mailtrap.
+Potfolio creado con HTML, CSS, javascript y bootstrap. Lenguaje utilizado Python con framework Flask en entorno virtual. Para la gestión de los mail se utiliza la plataforma de Mailtrap.
 
 ## Autor -
 **Damián Rojas**
