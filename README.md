@@ -233,11 +233,22 @@ Aqui se se presentan los proyectos con una breve descripción de cada uno y un e
 - #### **`Sección de formulario y envío de mail`**
 
 
-Es la sección de contacto  donde permite completar un formulario para enviarlo por mail con los campos nombre, correo y un mensaje que se desee enviar. El mail enviado llega al mail configurado en el sistema, y si este se envía correctamente se redirige a una página de "Correo enviado" exitoso con la opción de volver nuevamente a la página de inicio del portafolio. Para la gestión de los mail en este caso se utilizo el servicio de Mailtrap.
+Es la sección de contacto  donde permite completar un formulario para enviarlo por mail con los campos nombre, correo y un mensaje que se desee enviar. El mail enviado llega al mail configurado en el sistema. 
+Para la gestión de los mail en este caso se utilizó el servicio de Mailtrap.
 
   ![image alt](https://github.com/DamianRojas79/Portfolio/blob/main/images-git/seccion-formulario.png)
 
 <br>  
+
+Al enviar el mail si este fué exitoso el sistema redirege a la página de "Envío Exitoso" donde desde allí se puede volver al Inicio del sistema.
+
+ 
+
+![image alt](https://github.com/DamianRojas79/Portfolio/blob/main/images-git/mail-enviado-correcto.png)
+
+<br>  
+
+
 
 - #### **`Footer y redes sociales`**
 
